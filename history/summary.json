@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mzyd.work.ico",
     "slug": "",
     "status": "down",
-    "uptime": "44.27%",
-    "uptimeDay": "44.27%",
-    "uptimeWeek": "44.27%",
-    "uptimeMonth": "44.27%",
-    "uptimeYear": "44.27%",
-    "time": 2936,
-    "timeDay": 2936,
-    "timeWeek": 2936,
-    "timeMonth": 2936,
-    "timeYear": 2936,
-    "dailyMinutesDown": {
-      "2024-01-29": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2662,
+    "timeDay": 2662,
+    "timeWeek": 2662,
+    "timeMonth": 2662,
+    "timeYear": 2662,
+    "dailyMinutesDown": {}
   },
   {
     "name": "喵喵衣柜（皮肤站）",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/skin.mzyd.work.ico",
     "slug": "",
     "status": "down",
-    "uptime": "44.28%",
-    "uptimeDay": "44.28%",
-    "uptimeWeek": "44.28%",
-    "uptimeMonth": "44.28%",
-    "uptimeYear": "44.28%",
-    "time": 2936,
-    "timeDay": 2936,
-    "timeWeek": 2936,
-    "timeMonth": 2936,
-    "timeYear": 2936,
-    "dailyMinutesDown": {
-      "2024-01-29": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2662,
+    "timeDay": 2662,
+    "timeWeek": 2662,
+    "timeMonth": 2662,
+    "timeYear": 2662,
+    "dailyMinutesDown": {}
   },
   {
     "name": "HHNLAB-HomePage",
@@ -63,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.mzyd.work.ico",
     "slug": "",
     "status": "down",
-    "uptime": "44.30%",
-    "uptimeDay": "44.30%",
-    "uptimeWeek": "44.30%",
-    "uptimeMonth": "44.30%",
-    "uptimeYear": "44.30%",
-    "time": 2936,
-    "timeDay": 2936,
-    "timeWeek": 2936,
-    "timeMonth": 2936,
-    "timeYear": 2936,
-    "dailyMinutesDown": {
-      "2024-01-29": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2662,
+    "timeDay": 2662,
+    "timeWeek": 2662,
+    "timeMonth": 2662,
+    "timeYear": 2662,
+    "dailyMinutesDown": {}
   },
   {
     "name": "喵喵伊甸的下载页(IPV6)",
@@ -83,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/holab.hhnlab.cn.ico",
     "slug": "ipv-6",
     "status": "down",
-    "uptime": "0.88%",
-    "uptimeDay": "0.88%",
-    "uptimeWeek": "0.88%",
-    "uptimeMonth": "0.88%",
-    "uptimeYear": "0.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-01-29": 15
-    }
+    "dailyMinutesDown": {}
   }
 ]
