@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: 喵之伊甸主页
     url: https://mzyd.work
- - name: 喵喵衣柜（皮肤站）
+  - name: 喵喵衣柜（皮肤站）
     url: https://skin.mzyd.work
   - name: HHNLAB
     url: https://hhnlab.cn
