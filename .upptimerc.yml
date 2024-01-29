@@ -5,8 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: 喵之伊甸主页
     url: https://mzyd.work
+    check: "tcp-ping"
   - name: 喵喵衣柜（皮肤站）
     url: https://skin.mzyd.work
+    check: "tcp-ping"
   - name: HHNLAB-HomePage
     url: https://hhnlab.cn
   - name: 博客
@@ -14,7 +16,7 @@ sites:
   - name: 喵喵伊甸的下载页(IPV6)
     url: http://holab.hhnlab.cn/
     port: 5244
-    check: "POST"
+    check: "tcp-ping"
     ipv6: true
 
 status-website:
