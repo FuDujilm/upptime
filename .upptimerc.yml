@@ -7,25 +7,25 @@ sites:
     url: https://mzyd.work
   - name: 喵喵衣柜（皮肤站）
     url: https://skin.mzyd.work
-  - name: HHNLAB
+  - name: HHNLAB-HomePage
     url: https://hhnlab.cn
   - name: 博客
     url: https://blog.mzyd.work
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
+  - name: 喵喵伊甸的下载页(IPV6)
+    url: http://holab.hhnlab.cn/
+    port: 5244
+    check: "POST"
     ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.mzyd.work
   # baseUrl: /your-repo-name
   logoUrl: https://hhnlab.cn/image/logo
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: MoewEden&HHNLAB Public Status Pages
+  introTitle: "**Upptime** 是一个运行在Github Action的页面状态页面，展示我们网站的在线状态。"
+  introMessage: 一个运行在Github Action的页面状态页面，展示我们网站的在线状态。 [GitHub repository](https://github.com/fudujilm/upptime).
   navbar:
     - title: Status
       href: /
