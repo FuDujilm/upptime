@@ -6,9 +6,9 @@
     "slug": "",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 941,
     "timeDay": 199,
@@ -16,7 +16,7 @@
     "timeMonth": 138,
     "timeYear": 941,
     "dailyMinutesDown": {
-      "2024-11-21": 0
+      "2024-11-21": 7
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 941,
     "timeDay": 199,
@@ -36,7 +36,7 @@
     "timeMonth": 138,
     "timeYear": 941,
     "dailyMinutesDown": {
-      "2024-11-21": 2
+      "2024-11-21": 7
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://hhnlab.cn",
     "icon": "https://icons.duckduckgo.com/ip3/hhnlab.cn.ico",
     "slug": "hhnlab-home-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 449,
-    "timeWeek": 290,
-    "timeMonth": 277,
+    "timeDay": 400,
+    "timeWeek": 298,
+    "timeMonth": 279,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2024-11-21": 2
+      "2024-11-21": 7
     }
   },
   {
@@ -66,9 +66,9 @@
     "slug": "",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 941,
     "timeDay": 199,
@@ -76,7 +76,7 @@
     "timeMonth": 138,
     "timeYear": 941,
     "dailyMinutesDown": {
-      "2024-11-21": 2
+      "2024-11-21": 7
     }
   },
   {
