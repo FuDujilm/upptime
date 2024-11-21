@@ -15,7 +15,9 @@
     "timeWeek": 96,
     "timeMonth": 138,
     "timeYear": 941,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-21": 0
+    }
   },
   {
     "name": "喵喵衣柜（皮肤站）",
@@ -24,8 +26,8 @@
     "slug": "",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 941,
@@ -33,25 +35,29 @@
     "timeWeek": 96,
     "timeMonth": 138,
     "timeYear": 941,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-21": 2
+    }
   },
   {
     "name": "HHNLAB-HomePage",
     "url": "https://hhnlab.cn",
     "icon": "https://icons.duckduckgo.com/ip3/hhnlab.cn.ico",
     "slug": "hhnlab-home-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 346,
     "timeDay": 449,
     "timeWeek": 290,
     "timeMonth": 277,
     "timeYear": 346,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-21": 2
+    }
   },
   {
     "name": "博客",
@@ -60,16 +66,18 @@
     "slug": "",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 941,
     "timeDay": 199,
     "timeWeek": 96,
     "timeMonth": 138,
     "timeYear": 941,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-21": 2
+    }
   },
   {
     "name": "喵喵伊甸的下载页(IPV6)",
